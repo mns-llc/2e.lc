@@ -20,12 +20,12 @@ Our goal throughout all of this is to be transparent and trustworthy. This repos
 
  - a random ID (which is ephemeral - it doesn't stick around, and isn't tied to you)
  - the IP you connect to the internet with, and the country that IP appears to be in
- - the time of the event
- - whether or not you connected using HTTPS
- - the URI that you accessed
- - the origin of your request
- - the referrer to your request
- - the user-agent string of your browser
+ - the time of the connection
+ - whether or the connection was made over HTTPS
+ - the URI that was accessed
+ - the origin of the request
+ - the referrer, if any
+ - the user agent of your browser
 
 None of this could be reasonably used by us to identify you. Frankly, we're just not that into you - we're much more interested in what site you were on. If you have concerns about any of this, please contact us - we'd love to discuss.
 
