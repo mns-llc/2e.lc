@@ -4,6 +4,8 @@
 
 This is a security research project by 2e.lc ("two elk"), an operating division of Machines Never Sleep, LLC, a cybersecurity research and development company. We're not here to cause harm, sell you a product, or anything else like that. We're just a bunch of curious nerds doing nerd stuff on the internet.
 
+This project is currently online and collecting data. In short, we're testing to see if sites will run (safe) Cross-Site Scripts from a number of unlikely vectors. If we find anything, we'll be contacting the website owners to responsibly notify them and help keep the internet safer.
+
 ## Concerned Citizens
 
 If you're here because:
