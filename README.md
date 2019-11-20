@@ -14,7 +14,7 @@ If you're here because:
  - you have seen DNS traffic for 2e.lc, or
  - your console log has told you to go here
 
-Please reach out to us, either via personal contact information [on our site](https://mns.llc) or by opening a GitHub issue. We would be interested to hear what happened and will help to the best of our ability in *personal* (non-professional, you cannot hold us liable, we provide no warranty/guarantee/etc) capacity. Most notably, we *cannot* help you fix any issue you may have witnessed, as we cannot guarantee the completeness/integrity of that fix. Besides, would you really want us to? At that point it seems like a marketing ploy.
+Please reach out to us, either via personal contact information [on our site](https://mns.llc) or by opening a GitHub issue. We would be interested to hear what happened and will help to the best of our ability in *personal* (non-professional, you cannot hold us liable, we provide no warranty/guarantee/etc) capacity.
 
 Our goal throughout all of this is to be transparent and trustworthy. This repository contains all of 2e.lc, including server-side scripts to ingest and parse data. If your site did load our script, it beacons a small amount of information back to us for diagnostic assistance. How much data? Hardly any! Certainly much less than the average advertisement. The data we collect is:
 
