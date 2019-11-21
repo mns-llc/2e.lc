@@ -9,16 +9,16 @@ This project is currently online and collecting data. In short, we're testing to
 ## Concerned Citizens
 
 If you're here because:
- - you were redirected here, or
- - an unexpected script was run in your browser, or
+
+ - an unexpected resource was loaded by your browser, or
  - you have seen DNS traffic for 2e.lc, or
  - your console log has told you to go here
 
-Please reach out to us, either via personal contact information [on our site](https://mns.llc) or by opening a GitHub issue. We would be interested to hear what happened and will help to the best of our ability in *personal* (non-professional, you cannot hold us liable, we provide no warranty/guarantee/etc) capacity.
+Please reach out to us, either via personal contact information [on our site](https://mns.llc) or by opening a GitHub issue. We would be interested to hear what happened, and that would significantly aid our research!
 
-Our goal throughout all of this is to be transparent and trustworthy. This repository contains all of 2e.lc, including server-side scripts to ingest and parse data. If your site did load our script, it beacons a small amount of information back to us for diagnostic assistance. How much data? Hardly any! Certainly much less than the average advertisement. The data we collect is:
+Our goal throughout all of this is to be transparent and trustworthy. This repository contains all of 2e.lc, including server-side scripts to ingest and parse data. If a site you were on did load our script, it beacons a small amount of information back to us for diagnostic assistance. How much data? Hardly any! Probably much less than the average advertisement. The data we collect is:
 
- - a random ID (which is ephemeral - it doesn't stick around, and isn't tied to you)
+ - a random ID (which is ephemeral - it doesn't stick around and isn't tied to you)
  - the IP you connect to the internet with, and the country that IP appears to be in
  - the time of the connection
  - whether or the connection was made over HTTPS
